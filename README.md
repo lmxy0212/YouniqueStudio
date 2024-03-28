@@ -1,4 +1,4 @@
-# Younique
+# Younique - partially working
 - headset: Meta Quest Pro
 - Graphic API: Vulkan 
 - Open XR + Oculus 
